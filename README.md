@@ -15,7 +15,7 @@ Foxy.dj requires [Node.js](https://nodejs.org/) to run.
 
 Edit config.json and put your bot token in required place.
 
-If you don't know how to get a token, there is a nice [guide](https://www.writebots.com/discord-bot-token/) for how to do it.
+If you don't know how to get a token, here is a nice [guide](https://www.writebots.com/discord-bot-token/) for it.
 
 Install the dependencies and devDependencies and start the main script.
 
@@ -24,3 +24,8 @@ cd foxy.dj
 npm i
 npm run start
 ```
+
+## How to use
+Default prefix is **>**.
+To see all commands type **>help**
+To play music you can either use link or text ex. **>play linkin park faint**
