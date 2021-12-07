@@ -1,2 +1,26 @@
 # Foxy.dj
-Discord Music Bot written in node.js
+
+Foxy.dj is a discord music bot that plays your favorite music.
+It is written purely in Javascript.
+
+## Features
+
+- Plays your favorite music
+- Written to handle several guilds (discord servers) at once
+- Asynchronous (mostly)
+
+## Installation
+
+Foxy.dj requires [Node.js](https://nodejs.org/) to run.
+
+Edit config.json and put your bot token in required place.
+
+If you don't know how to get a token, there is a nice [guide](https://www.writebots.com/discord-bot-token/) for how to do it.
+
+Install the dependencies and devDependencies and start the main script.
+
+```sh
+cd foxy.dj
+npm i
+npm run start
+```
