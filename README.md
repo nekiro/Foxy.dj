@@ -13,7 +13,7 @@ It is written purely in Javascript (CommonJs).
 
 Foxy.dj requires [Node.js](https://nodejs.org/) to run.
 
-Edit config.json and put your bot token in required place.
+Edit .env file and put your bot token in required place.
 
 If you don't know how to get a token, here is a nice [guide](https://www.writebots.com/discord-bot-token/) for it.
 
