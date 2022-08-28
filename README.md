@@ -1,13 +1,13 @@
 # Foxy.dj
 
 Foxy.dj is a discord music bot that plays your favorite music.
-It is written purely in Javascript.
+It is written purely in Javascript (CommonJs).
 
 ## Features
 
 - Plays your favorite music
 - Written to handle several guilds (discord servers) at once
-- Asynchronous (mostly)
+- Asynchronous
 
 ## Installation
 
